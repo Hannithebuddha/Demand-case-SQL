@@ -1,0 +1,41 @@
+product_id,product_name,category,sub_category,brand,pack_size,launch_date,status
+101,FreshBite Yogurt 1 150g,Dairy,Yogurt,FreshBite,150,2023-01-01,Active
+102,FreshBite Milk Drinks 2 250g,Dairy,Milk Drinks,FreshBite,250,2023-01-01,Active
+103,FreshBite Yogurt 3 500g,Dairy,Yogurt,FreshBite,500,2023-01-01,Active
+104,FreshBite Milk Drinks 4 750g,Dairy,Milk Drinks,FreshBite,750,2023-01-01,Active
+105,FreshBite Yogurt 5 150g,Dairy,Yogurt,FreshBite,150,2023-01-01,Active
+106,FreshBite Milk Drinks 6 250g,Dairy,Milk Drinks,FreshBite,250,2023-01-01,Active
+107,FreshBite Yogurt 7 500g,Dairy,Yogurt,FreshBite,500,2025-07-01,Active
+108,FreshBite Milk Drinks 8 750g,Dairy,Milk Drinks,FreshBite,750,2023-01-01,Discontinued
+109,CrunchyCo Chips 1 150g,Snacks,Chips,CrunchyCo,150,2023-01-01,Active
+110,CrunchyCo Crackers 2 250g,Snacks,Crackers,CrunchyCo,250,2023-01-01,Active
+111,CrunchyCo Chips 3 500g,Snacks,Chips,CrunchyCo,500,2023-01-01,Active
+112,CrunchyCo Crackers 4 750g,Snacks,Crackers,CrunchyCo,750,2023-01-01,Active
+113,CrunchyCo Chips 5 150g,Snacks,Chips,CrunchyCo,150,2023-01-01,Active
+114,CrunchyCo Crackers 6 250g,Snacks,Crackers,CrunchyCo,250,2023-01-01,Active
+115,CrunchyCo Chips 7 500g,Snacks,Chips,CrunchyCo,500,2025-07-01,Active
+116,CrunchyCo Crackers 8 750g,Snacks,Crackers,CrunchyCo,750,2023-01-01,Discontinued
+117,TableJoy Ketchup 1 150g,Sauces,Ketchup,TableJoy,150,2023-01-01,Active
+118,TableJoy Cooking Sauces 2 250g,Sauces,Cooking Sauces,TableJoy,250,2023-01-01,Active
+119,TableJoy Ketchup 3 500g,Sauces,Ketchup,TableJoy,500,2023-01-01,Active
+120,TableJoy Cooking Sauces 4 750g,Sauces,Cooking Sauces,TableJoy,750,2023-01-01,Active
+121,TableJoy Ketchup 5 150g,Sauces,Ketchup,TableJoy,150,2023-01-01,Active
+122,TableJoy Cooking Sauces 6 250g,Sauces,Cooking Sauces,TableJoy,250,2023-01-01,Active
+123,TableJoy Ketchup 7 500g,Sauces,Ketchup,TableJoy,500,2025-07-01,Active
+124,TableJoy Cooking Sauces 8 750g,Sauces,Cooking Sauces,TableJoy,750,2023-01-01,Discontinued
+125,MorningLab Cereal 1 150g,Breakfast,Cereal,MorningLab,150,2023-01-01,Active
+126,MorningLab Granola 2 250g,Breakfast,Granola,MorningLab,250,2023-01-01,Active
+127,MorningLab Cereal 3 500g,Breakfast,Cereal,MorningLab,500,2023-01-01,Active
+128,MorningLab Granola 4 750g,Breakfast,Granola,MorningLab,750,2023-01-01,Active
+129,MorningLab Cereal 5 150g,Breakfast,Cereal,MorningLab,150,2023-01-01,Active
+130,MorningLab Granola 6 250g,Breakfast,Granola,MorningLab,250,2023-01-01,Active
+131,MorningLab Cereal 7 500g,Breakfast,Cereal,MorningLab,500,2025-07-01,Active
+132,MorningLab Granola 8 750g,Breakfast,Granola,MorningLab,750,2023-01-01,Discontinued
+133,Sipster Juice 1 150g,Beverages,Juice,Sipster,150,2023-01-01,Active
+134,Sipster Iced Tea 2 250g,Beverages,Iced Tea,Sipster,250,2023-01-01,Active
+135,Sipster Juice 3 500g,Beverages,Juice,Sipster,500,2023-01-01,Active
+136,Sipster Iced Tea 4 750g,Beverages,Iced Tea,Sipster,750,2023-01-01,Active
+137,Sipster Juice 5 150g,Beverages,Juice,Sipster,150,2023-01-01,Active
+138,Sipster Iced Tea 6 250g,Beverages,Iced Tea,Sipster,250,2023-01-01,Active
+139,Sipster Juice 7 500g,Beverages,Juice,Sipster,500,2025-07-01,Active
+140,Sipster Iced Tea 8 750g,Beverages,Iced Tea,Sipster,750,2023-01-01,Discontinued

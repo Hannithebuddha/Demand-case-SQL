@@ -1,0 +1,3 @@
+promo_flag,total_actual,total_forecast,total_error,total_abs_error,bias_pct,wape_pct
+0,4481583.0,4500904,19321.0,385305.0,0.43,8.6
+1,1133484.0,1142441,8957.0,191121.0,0.79,16.86

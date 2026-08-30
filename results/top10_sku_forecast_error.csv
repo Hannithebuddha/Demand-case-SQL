@@ -1,0 +1,11 @@
+product_id,product_name,category,total_actual,total_forecast,total_error,total_abs_error,bias_pct,wape_pct
+112,CrunchyCo Crackers 4 750g,Snacks,190256.0,212507,22251.0,31511.0,11.7,16.56
+101,FreshBite Yogurt 1 150g,Dairy,227506.0,252578,25072.0,30332.0,11.02,13.33
+102,FreshBite Milk Drinks 2 250g,Dairy,229711.0,257171,27460.0,29308.0,11.95,12.76
+111,CrunchyCo Chips 3 500g,Snacks,186562.0,208236,21674.0,27628.0,11.62,14.81
+105,FreshBite Yogurt 5 150g,Dairy,234042.0,211318,-22724.0,26312.0,-9.71,11.24
+106,FreshBite Milk Drinks 6 250g,Dairy,231309.0,209236,-22073.0,25971.0,-9.54,11.23
+113,CrunchyCo Chips 5 150g,Snacks,201746.0,205730,3984.0,22286.0,1.97,11.05
+109,CrunchyCo Chips 1 150g,Snacks,196902.0,199505,2603.0,20527.0,1.32,10.42
+110,CrunchyCo Crackers 2 250g,Snacks,182728.0,178584,-4144.0,19756.0,-2.27,10.81
+114,CrunchyCo Crackers 6 250g,Snacks,184022.0,191338,7316.0,19706.0,3.98,10.71

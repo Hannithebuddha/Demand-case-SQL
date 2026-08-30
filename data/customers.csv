@@ -1,0 +1,16 @@
+customer_id,customer_name,channel,region,customer_type
+1,Federalchain_1,Federal chain,Central,Federal
+2,Federalchain_2,Federal chain,North-West,Federal
+3,Federalchain_3,Federal chain,Volga,Federal
+4,Federalchain_4,Federal chain,South,Federal
+5,Localchain_1,Local chain,Central,Regional
+6,Localchain_2,Local chain,North-West,Regional
+7,Localchain_3,Local chain,Volga,Regional
+8,Localchain_4,Local chain,South,Regional
+9,Discounters_1,Discounters,Central,Federal
+10,Discounters_2,Discounters,North-West,Federal
+11,Discounters_3,Discounters,Volga,Federal
+12,Discounters_4,Discounters,South,Federal
+13,E-commerce_1,E-commerce,Central,Online
+14,E-commerce_2,E-commerce,North-West,Online
+15,E-commerce_3,E-commerce,Volga,Online
